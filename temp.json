@@ -1,0 +1,4 @@
+{'update_id': 106816544, 'message': {'message_id': 17, 'from': {'id': 984995346, 'is_bot': False, 'first_name': '도현', 'last_name': '이', 'language_code': 'ko'}, 'chat': {'id': 984995346, 'first_name': '도현', 'last_name': '이', 'type': 'private'}, 'date': 1571890815, 'text': 'ㄴ'}}
+{'update_id': 106816541, 'message': {'message_id': 1, 'from': {'id': 984995346, 'is_bot': False, 'first_name': '도현', 'last_name': '이'}, 'chat': {'id': 984995346, 'first_name': '도현', 'last_name': '이', 'type': 'private'}, 'date': 1571877999, 'text': '/start', 'entities': [{'offset': 0, 'length': 6, 'type': 'bot_command'}]}}
+
+{'update_id': 106816542, 'message': {'message_id': 2, 'from': {'id': 984995346, 'is_bot': False, 'first_name': '도현', 'last_name': '이', 'language_code': 'ko'}, 'chat': {'id': 984995346, 'first_name': '도현', 'last_name': '이', 'type': 'private'}, 'date': 1571878000, 'text': 'hi'}}
